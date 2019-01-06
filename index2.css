@@ -15,7 +15,7 @@ body {
 .havbarLinkElement {
 	text-decoration: none;
     color: black;
-    display: none;
+    display: block;
     font-size: 25px;
     top: 50%;
     left: 50%;
